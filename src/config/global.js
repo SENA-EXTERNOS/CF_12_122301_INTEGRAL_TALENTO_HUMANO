@@ -1,17 +1,50 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Programas de seguridad y salud en el trabajo',
+    descripcionCurso:
+      'Los Programas de Seguridad y Salud en el Trabajo de una organización, son un conjunto de actividades organizadas y enfocadas en minimizar los riesgos del personal que trabaja en la empresa, requiriendo de una estructuración, un diseño y una planificación con unas fechas específicas de realización, lo que permite que el personal se integre y apropie de la información divulgada por el área de talento humano y la de comunicaciones.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/3.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/4.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-5'],
+        imagen: require('@/assets/curso/portada/5.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-6'],
+        imagen: require('@/assets/curso/portada/6.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-7'],
+        imagen: require('@/assets/curso/portada/7.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-8'],
+        imagen: require('@/assets/curso/portada/8.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-9'],
+        imagen: require('@/assets/curso/portada/9.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-11'],
+        imagen: require('@/assets/curso/portada/11.svg'),
       },
     ],
   },
@@ -32,30 +65,29 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Estilos de vida saludable',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Programas de seguridad y salud en el trabajo',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Tipos de divulgación',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Gestión documental',
         desarrolloContenidos: true,
       },
     ],
@@ -101,32 +133,124 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Estilos de vida saludable',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA, (2020). Hábitos saludables mediante actividad física ',
+      tipo: 'Video',
+      link: 'https://youtu.be/bZb3VYvBHFA',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Accidente e incidente laboral',
+      referencia:
+        '<i>Ley 1562 de 2012</i>. Por la cual se modifica el sistema de riesgos laborales y se dictan otras disposiciones en materia de salud ocupacional. 11 de julio de 2012.',
+      tipo: 'Ley',
+      descarga: '/downloads/Ley_1562_de_2012.pdf',
+    },
+    {
+      tema: 'Accidente e incidente laboral',
+      referencia:
+        '<i>Decreto 1072 de 2015</i>. [Ministerio de Trabajo]. Por el cual se estructuran en el ámbito laboral, la vigilancia y control de los riesgos laborales. 26 de mayo de 2015.',
+      tipo: 'Decreto',
+      descarga: '/downloads/Decreto_1072_de_2015.pdf',
+    },
+    {
+      tema: 'Plan de emergencia',
+      referencia:
+        '<i>Resolución 0312 de 2019</i>.[Ministerio de Trabajo]. Por el cual se definen los estándares mínimos del SG-SST. 13 de febrero de 2019.',
+      tipo: 'Resolución',
+      descarga:
+        '/downloads/Resolucion_0312_2019_Estandares_minimos_del_Sistema_de_la_Seguridad.pdf',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Campaña',
+      significado:
+        'estrategia de comunicación empresarial para dar a conocer información importante a sus empleados.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Ciclo PHVA',
+      significado:
+        'estrategia para resolver problemas buscando mejora para los procesos y desarrollar los cambios necesarios.',
+    },
+    {
+      termino: 'Comités técnicos',
+      significado:
+        'grupos de personas con roles específicos, encargados desde la gerencia para desarrollar funciones técnicas para prevención de emergencias, en caso de presentarse eventualidades durante las jornadas laborales.',
+    },
+    {
+      termino: 'Convivencia',
+      significado:
+        'acto de convivir, referente a la parte empresarial, corresponde a la convivencia entre empleados de una organización.',
+    },
+    {
+      termino: 'Enfermedad',
+      significado:
+        'alteración leve o grave del funcionamiento normal de un organismo o de alguna de sus partes, debido a una causa interna o externa.',
+    },
+    {
+      termino: 'Lineamientos',
+      significado:
+        'corresponden a las fases o etapas que requieren ser ejecutadas en tareas específicas.',
+    },
+    {
+      termino: 'Proactivo',
+      significado:
+        'persona que tiene la capacidad de anticipar eventualidades o inconvenientes futuros.',
+    },
+    {
+      termino: 'Promover',
+      significado:
+        'fomentar la implementación y desarrollo de algo que pueden omitir o pasar por alto los empleados.',
+    },
+    {
+      termino: 'Riesgo',
+      significado:
+        'posibilidad de ocurrencia de que alguien tenga un contratiempo o accidente.',
+    },
+    {
+      termino: 'Salud',
+      significado:
+        'estado en que un ser u organismo vivo no tiene ninguna lesión ni padece ninguna enfermedad y ejerce con normalidad todas sus funciones.(OMS).',
+    },
+    {
+      termino: 'Promover',
+      significado:
+        'fomentar la implementación y desarrollo de algo que pueden omitir o pasar por alto los empleados.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Estrada, A., Pastrana, J., & Mejía, M. (2011). <i>La autoestima, factor fundamental para el desarrollo de la autonomía personal y profesional</i>. Teoría de la educación, 1-13.',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social, (2021) <i>Guía para el reporte, investigación de incidentes, accidentes y enfermedades laborales Código GTHG03 V2</i>, Bogotá.',
+    },
+    {
+      referencia:
+        'Ministerio de Trabajo (2022). <i>Sistema de gestión y seguridad en el trabajo</i>. ',
+      link:
+        'https://www.mintrabajo.gov.co/relaciones-laborales/riesgos-laborales/sistema-de-gestion-de-seguridad-y-salud-en-el-trabajo.',
+    },
+    {
+      referencia:
+        '<i>Resolución 0652 de 2012</i>. [Ministerio del Trabajo].  Por el cual se establece la conformación del Comité de convivencia. 30 de abril de 2012.',
+    },
+    {
+      referencia:
+        '<i>Resolución 2013 de 1986<i>. [Ministerio del Trabajo y Seguridad Social].  Por la cual se reglamenta la organización y funcionamiento de los Comités de Medicina, Higiene y Seguridad Industrial en los lugares de trabajo. 6 de junio de 1986.',
+    },
+    {
+      referencia:
+        '<i>Resolución 1401 de 2007</i>. [Ministerio de Protección Social]. Establecer obligaciones y requisitos mínimos para realizar la investigación de incidentes y accidentes de trabajo, con el fin de identificar las causas, hechos y situaciones que los han generado, e implementar las medidas correctivas encaminadas a eliminar o minimizar condiciones de riesgo y evitar su recurrencia. 14 de mayo de 2007.',
+    },
+    {
+      referencia:
+        'Safetya, (2019) <i>Programa del SG-SST: su definición y estructura</i>.',
+      link:
+        'https://safetya.co/programas-del-sg-sst-estructura/#Estructurade_un_programa_del_SG-SST',
     },
   ],
   creditos: {

@@ -3,15 +3,16 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p(data-aos="fade-down") El Sistema de Gestión de Seguridad y Salud en el Trabajo, dispone sobre las necesidades de creación, diseño e implementación de los Programas de Seguridad y Salud en el Trabajo dentro de todas las empresas, cuyo objetivo es velar por la integridad de sus trabajadores, proponiendo actividades que les permita prevenir, informar, capacitar y asesorar a toda la planta de personal desarrollando un nivel de conciencia sobre el autocuidado y el ambiente laboral seguro.
+
+    p(data-aos="fade-down").mb-5 Además, el implementar unos comités Técnicos de Seguridad, quienes velarán por la correcta ejecución e implementación de este programa dentro de la organización. 
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
