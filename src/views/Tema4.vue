@@ -33,49 +33,41 @@
               .col-auto.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/105.svg', alt='') 
               .col.my-3
-                h5.mb-3 Planeación
                 p Proceso donde se revisa, analiza e interpreta la información, partiendo del carácter legal, técnico y funcional de la empresa. 
             .row.justify-content-center.align-items-start(numero="B" titulo="Producción")
               .col-auto.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/106.svg', alt='') 
               .col.my-3
-                h5.mb-3 Producción
                 p Los documentos se valoran de acuerdo al proceso  que se aplica, estudiando desde cómo es creado, su categorización, su importancia y función. 
             .row.justify-content-center.align-items-start(numero="C" titulo="Gestión y trámite")
               .col-auto.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/107.svg', alt='') 
               .col.my-3
-                h5.mb-3 Gestión y trámite
                 p Se realiza un análisis sobre el propósito del documento y la forma como impacta los procesos administrativos. 
             .row.justify-content-center.align-items-start(numero="D" titulo="Organizar")
               .col-auto.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/108.svg', alt='') 
               .col.my-3 
-                h5.mb-3 Organizar
                 p En esta parte se establece lo que se hará con el documento, a qué departamento se dirige, su categoría, el tiempo que se va a almacenar. 
             .row.justify-content-center.align-items-start(numero="E" titulo="Transferencia")
               .col-auto.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/109.svg', alt='') 
               .col.my-3
-                h5.mb-3 Transferencia
                 p Se maneja en esta parte el formato, la forma como migra la información, la estructura que va a manejar, la forma como se mantiene o si requiere ser convertido. 
             .row.justify-content-center.align-items-start(numero="F" titulo="Ciclo de vida del documento")
               .col-auto.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/110.svg', alt='') 
               .col.my-3
-                h5.mb-3 Ciclo de vida del documento
                 p Se decide el ciclo de vida que tendrá el documento, saber si se conservará o eliminará. 
             .row.justify-content-center.align-items-start(numero="G" titulo="Mantenimiento a largo plazo")
               .col-auto.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/111.svg', alt='') 
               .col.my-3
-                h5.mb-3 Mantenimiento a largo plazo
                 p Al cumplir con los diferentes requerimientos, se determina la forma como se preservará. 
             .row.justify-content-center.align-items-start(numero="H" titulo="Evaluación")
               .col-auto.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/112.svg', alt='') 
               .col.my-3
-                h5.mb-3 Evaluación
                 p Este proceso se hace continuamente para identificar el orden de prioridad de la información para la empresa. Se decide si continúa su preservación o será eliminado.
       .row.justify-content-start.align-items-center.mb-5           
         .col-lg-5
@@ -93,14 +85,14 @@
           .bgp.p-1(data-aos="fade-right")
             h4(data-aos="fade-down").mb-0 Formatos  
 
-    .row.justify-content-center.align-items-start.mb-5 
-      .col-lg-4
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/80.png', alt='')        
-      .col-lg-8
-        p(data-aos="fade-down") Después de pensar y observar asuntos como las campañas de seguridad y salud, sus tipos, la forma conceptual del tema del componente, las brigadas, los comitès, las carteleras informativas, la gestiòn documental, entre otros temas que corresponden al estudio de este recurso educativo,  por último, se analiza  el formato que está estructurado y diseñado cumpliendo con características técnicas para recolectar información específica, que permita verificar la aplicación adecuada de los procesos.
-        .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Generalmente, las empresas desarrollan los formatos cumpliendo con Normas establecidas para cada actividad, los cuales ya vienen estructurados, sobre datos específicos, información clave que permita el conocer el proceso paso a paso, es decir, se diligencian en cada fase en la que se encuentren, mostrando los objetivos y avances alcanzados. 
-        p(data-aos="fade-down") #[b Ejemplos:] formato para el reporte de condiciones inseguras, formato de seguimiento de acciones correctivas, preventivas y de mejora, etc.
+      .row.justify-content-center.align-items-start.mb-5 
+        .col-lg-4
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/114.png', alt='')        
+        .col-lg-8
+          p(data-aos="fade-down") Después de pensar y observar asuntos como las campañas de seguridad y salud, sus tipos, la forma conceptual del tema del componente, las brigadas, los comitès, las carteleras informativas, la gestiòn documental, entre otros temas que corresponden al estudio de este recurso educativo,  por último, se analiza  el formato que está estructurado y diseñado cumpliendo con características técnicas para recolectar información específica, que permita verificar la aplicación adecuada de los procesos.
+          .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
+            p(data-aos="fade-down").mb-0 Generalmente, las empresas desarrollan los formatos cumpliendo con normas establecidas para cada actividad, los cuales ya vienen estructurados, sobre datos específicos, información clave que permita el conocer el proceso paso a paso, es decir, se diligencian en cada fase en la que se encuentren, mostrando los objetivos y avances alcanzados. 
+          p(data-aos="fade-down") #[b Ejemplos:] formato para el reporte de condiciones inseguras, formato de seguimiento de acciones correctivas, preventivas y de mejora, etc.
     .row.justify-content-center.align-items-center        
       .col-lg-10
         .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-down")

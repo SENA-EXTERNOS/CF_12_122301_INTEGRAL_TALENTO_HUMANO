@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="zoom-in-left")
       .titulo-principal__numero
         span 2
-      h1 Programas de seguridad y salud en el trabajo
+      h1 Programas de Seguridad y Salud en el Trabajo
     .row.justify-content-center.align-items-start.mb-5 
       .col-lg-8
         p(data-aos="fade-down").mb-5 El Ministerio de trabajo, por medio de la implementación y regulación de normas que buscan el proteger la integridad de los trabajadores colombianos, establece la creación por parte de todos los empresarios del Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST), cuyo objetivo es la implementación de un proceso desarrollado de manera lógica por medio de diferentes etapas basado en el ciclo PHVA (planear, hacer, verificar y actuar) cumpliendo con las normas y realizando una evaluación constante por medio de auditorías a las acciones de mejora; que evitan, disminuyen y evalúan el control de los riesgos en los entornos laborales que afecten a los empleados. (Ministerio de Trabajo, 2022)                    
@@ -44,36 +44,31 @@
         .col-lg-2
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/55.svg', alt='')    
         .col-lg-10
-          p(data-aos="fade-down") A continuación, se explica cada uno de los elementos para la estructuración del documento del Programa de Seguridad y Salud en el trabajo, dando cuenta de aspectos como el alcance del programa, los objetivos, las responsabilidades del programa, la duración, el cronograma, las actividades, los indicadores y las metas a alcanzar. siendo así que se intenta presentar un panorama amplio de aquello que constituye un posible programa de salud y seguridad empresarial. 
+          p(data-aos="fade-down") A continuación, se explica cada uno de los elementos para la estructuración del documento del Programa de Seguridad y Salud en el Trabajo, dando cuenta de aspectos como el alcance del programa, los objetivos, las responsabilidades del programa, la duración, el cronograma, las actividades, los indicadores y las metas a alcanzar. Siendo así que se intenta presentar un panorama amplio de aquello que constituye un posible programa de salud y seguridad empresarial. 
     .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="zoom-in")
       LineaTiempoC.color-secundario(text-small)
         .row.justify-content-center.align-items-start(titulo="Justificación y/o alcance del programa")         
           .col-lg-6.my-3
-            h4.mb-4 Justificación y/o alcance del programa
             p Corresponde a la identificación de las necesidades de la empresa o de las áreas donde se espera desarrollar cada una de las actividades de acuerdo con los riesgos encontrados y las personas afectadas, partiendo de los indicadores o normatividades. Desde allí se explica cuáles son las necesidades y qué justifica el  desarrollo de la realización del programa.
           .col-lg-5.my-3
             img.img-a.img-t(src='@/assets/curso/temas/56.png', alt='') 
         .row.justify-content-center.align-items-start(titulo="Objetivos del programa")         
           .col-lg-6.my-3
-            h4.mb-4 Objetivos del programa
             p Estos deben ser planteados con verbos infinitivos (terminados en ar, er o ir, ejemplos: desarrollar, determinar, corregir, buscar, etc.) y buscan exponer lo que se espera alcanzar con la implementación del programa. Por supuesto, se presentan acorde con las necesidades y las prioridades de seguridad y salud en la empresa.
           .col-lg-5.my-3
             img.img-a.img-t(src='@/assets/curso/temas/57.png', alt='') 
         .row.justify-content-center.align-items-start(titulo="Responsabilidades de la población objetivo")         
           .col-lg-6.my-3
-            h4.mb-4 Responsabilidades de la población objetivo
             p Este apartado busca la apropiación de la responsabilidad de las personas a quienes se dirige el programa. Se especifica el rol y la responsabilidad. Una responsabilidad mínima es la participación en el programa teniendo siempre presente las prioridades del mismo. 
           .col-lg-5.my-3
             img.img-a.img-t(src='@/assets/curso/temas/58.png', alt='') 
         .row.justify-content-center.align-items-start(titulo="Duración del programa")        
           .col-lg-6.my-3
-            h4.mb-4 Duración del programa
             p Se especifica la duración, fecha de inicio y fin del programa, generalmente se estructuran para durar un año. Esto es importante porque de acuerdo al tiempo de duración del programa se proyectan actividades que maximicen los elementos del programa. 
           .col-lg-5.my-3
             img.img-a.img-t(src='@/assets/curso/temas/59.png', alt='')  
         .row.justify-content-center.align-items-start(titulo="Actividades a desarrollar")        
           .col-lg-6.my-3
-            h4.mb-4 Actividades a desarrollar
             p Se presenta cada una de las actividades que se propone para el desarrollo del programa, las cuales deben contener:
             ul.lista-ul.ps-2
               li 
@@ -92,13 +87,11 @@
             img.img-a.img-t(src='@/assets/curso/temas/60.png', alt='')                  
         .row.justify-content-center.align-items-start(titulo="Cronograma")         
           .col-lg-6.my-3
-            h4.mb-4 Cronograma
             p Dentro del cronograma van las fechas de realización de las actividades del programa, con los responsables, aspectos logísticos necesarios, fechas de realización, fases o etapas. Es la configuración del programa trazado desde una proyección teórica.
           .col-lg-5.my-3
             img.img-a.img-t(src='@/assets/curso/temas/61.png', alt='') 
         .row.justify-content-center.align-items-start(titulo="Indicadores")         
           .col-lg-6.my-3
-            h4.mb-4 Indicadores
             p Son utilizados para medir el cumplimiento de los objetivos y cada indicador es diseñado para un objetivo. Estos pueden ser de estructura, que se entienden como medidas verificables de disponibilidad y acceso a los recursos y políticas que tiene la empresa para atender los requerimientos de seguridad; el siguiente es el indicador de proceso, que son las herramientas usadas para evaluar los procesos y rendimientos de tareas; por último, los indicadores de resultados. De acuerdo con el #[b Decreto 1072 de 2015], cada indicador definido debe contar con:
             ul.lista-ul.ps-2
               li 
@@ -127,7 +120,6 @@
 
         .row.justify-content-center.align-items-start(titulo="Metas")         
           .col-lg-6.my-3
-            h4.mb-4 Metas
             p Las metas son los parámetros que se han deseado alcanzar; para saber si esto es posible o no, es preciso considerar los indicadores que se han logrado determinar en el programa.                                                 
           .col-lg-5.my-3
             img.img-a.img-t(src='@/assets/curso/temas/63.png', alt='') 
@@ -210,7 +202,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Figura 1.
+                  h4.mb-1 Figura 1
                   p.mb-0 Elementos de elaboraciòn de un plan de emergencia
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Figura_1.pdf')" target="_blank" type="application/pdf")
@@ -260,7 +252,7 @@
           tr
             td Hurto
           tr
-            td Asonadas y actos mal intencionados de terceros.
+            td Asonadas y actos mal intencionados de terceros
           tr
             td.text-bold(rowspan='6') Emergencias técnicas
             td Incendios
@@ -315,7 +307,7 @@
           span Tipos de brigada  y normatividad legal vigente
         .tabla-a.color-primario.mb-5(data-aos="fade-left") 
           table
-            caption Nota. Los tipos de brigada aquí se enumeran tienen la característica de compartir las normatividades dispuestas en la tabla.          
+            caption Nota. Los tipos de brigada que aquí se enumeran tienen la característica de compartir las normatividades dispuestas en la tabla.          
             thead
               tr.bgt
                 th Tipos
@@ -370,7 +362,7 @@
 
     p(data-aos="fade-down") Hasta ahora el recorrido sobre la importancia de la salud y la seguridad dentro de las empresas ha sido amplio y concreto. La seguridad y la salud demandan casos puntuales para su óptimo desempeño. Además de las brigadas de emergencia, las organizaciones deben tener en cuenta dos comités fundamentales para la seguridad y la salud en el trabajo, estos son: el comité paritario de seguridad (COPASST) y el comité de convivencia. 
 
-    p(data-aos="fade-down").mb-5 En el siguiente video se profundiza sobre estos dos comités
+    p(data-aos="fade-down").mb-5 En el siguiente video se profundiza sobre estos dos comités:
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     
@@ -396,9 +388,9 @@ export default {
         icono: require('@/assets/curso/temas/73.svg'),
       },
       {
-        titulo: 'Evacuación y rescate',
+        titulo: 'Evacuación',
         texto:
-          'En cuanto a evacuación: realizar todas las acciones, procedimientos y estrategias para movilizar a las personas que se encuentren en riesgo o un área con menor o riesgo nulo.',
+          'Realizar todas las acciones, procedimientos y estrategias para movilizar a las personas que se encuentren en un área con riesgo, menor riesgo o riesgo nulo.',
         icono: require('@/assets/curso/temas/74.svg'),
       },
       {

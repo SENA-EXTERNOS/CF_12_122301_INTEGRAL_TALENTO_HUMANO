@@ -73,7 +73,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Programas de seguridad y salud en el trabajo',
+        titulo: 'Programas de Seguridad y Salud en el Trabajo',
         desarrolloContenidos: true,
       },
       {
@@ -240,7 +240,7 @@ export default {
     },
     {
       referencia:
-        '<i>Resolución 2013 de 1986<i>. [Ministerio del Trabajo y Seguridad Social].  Por la cual se reglamenta la organización y funcionamiento de los Comités de Medicina, Higiene y Seguridad Industrial en los lugares de trabajo. 6 de junio de 1986.',
+        '<i>Resolución 2013 de 1986</i>. [Ministerio del Trabajo y Seguridad Social].  Por la cual se reglamenta la organización y funcionamiento de los Comités de Medicina, Higiene y Seguridad Industrial en los lugares de trabajo. 6 de junio de 1986.',
     },
     {
       referencia:

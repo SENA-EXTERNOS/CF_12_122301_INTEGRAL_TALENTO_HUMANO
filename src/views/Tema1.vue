@@ -21,7 +21,7 @@
             .col-lg-6
               img.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/6.png', alt='')
               
-          p(data-aos="fade-down") El estilo de vida saludable ayuda a prevenir y disminuir los riesgos de enfermedades crónicas o muerte. El desarrollar hábitos alimenticios, rutinas de actividad física, hábitos de higiene, de sueño y el estar alejado de una vida de excesos, le permite a la persona reconectarse con su entorno, disfrutar de sus seres queridos, ser una persona más productiva en su trabajo, promover la autoestima y permitir que la persona el explore sus gustos e intereses.
+          p(data-aos="fade-down") El estilo de vida saludable ayuda a prevenir y disminuir los riesgos de enfermedades crónicas o muerte. El desarrollar hábitos alimenticios, rutinas de actividad física, hábitos de higiene, de sueño y el estar alejado de una vida de excesos, le permite a la persona reconectarse con su entorno, disfrutar de sus seres queridos, ser una persona más productiva en su trabajo, promover la autoestima y permitir que la persona explore sus gustos e intereses.
 
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-10(data-aos="zoom-in")
@@ -33,7 +33,7 @@
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h4.mb-1 Hábitos saludables mediante actividad física.
-                    p.mb-0 Para complementar el concepto de vida saludable, explore el video video Hábitos saludables mediante actividad física.
+                    p.mb-0 Para complementar el concepto de vida saludable, explore el video Hábitos saludables mediante actividad física.
                   .col-sm-auto
                     a.boton.color-acento-botones(href="https://youtu.be/bZb3VYvBHFA" target="_blank")
                       span.ts Ver video
@@ -46,7 +46,7 @@
 
       .row.justify-content-center.align-items-start.mb-5           
         .col-lg-2
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/8.svg', alt='')    
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/22.svg', alt='')    
         .col-lg-10
           p(data-aos="fade-down") Para adoptar un estilo de vida saludable existen diversas técnicas, actividades o acciones que posibilitan transformar hábitos malignos para la salud y mejorar la calidad de vida tanto física como emocional de las personas. El salto hacia esta vida de cuidados debe ser pausado ya que el cuerpo debe ir asimilando los cambios de manera paulatina para aceptarlos mejor.    
 
@@ -183,7 +183,6 @@
     p(data-aos="fade-down").mb-5 Es usual que se confundan o se tenga la creencia que los accidentes y los incidentes sean una misma cosa, pero la realidad es que cada uno configura una situación totalmente diferente al interior de una organización y por ello conlleva a diferentes acciones para mitigarlos. A continuación se presentan las definiciones para estos:
     TabsA.color-acento-contenido.mb-5(data-aos="fade-left")
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Accidente")
-        h4 Accidente
         .row.justify-content-center.align-items-start
           .col-lg-7
             .bloque-texto-d.color-secundario.p-4
@@ -217,13 +216,12 @@
                 h5.mb-0 El Congreso de Colombia, (2012). Ley 1562 de 2012
 
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Incidente")
-        h4 Incidente
         .row.justify-content-center.align-items-start
           .col-lg-7
             .bloque-texto-d.color-secundario.p-4
               .bloque-texto-d__texto.mb-2
                 i.fas.fa-quote-left
-                p.text-regular Suceso acaecido en el curso del trabajo o en relación con este, que tuvo el potencial de ser un accidente, en el que hubo personas involucradas sin que sufrieran lesiones o se presentaran daños a la propiedad y/o pérdida en los procesos,         
+                p.text-regular Suceso acaecido en el curso del trabajo o en relación con este, que tuvo el potencial de ser un accidente, en el que hubo personas involucradas sin que sufrieran lesiones o se presentaran daños a la propiedad y/o pérdida en los procesos.        
                 i.fas.fa-quote-right    
               .bloque-texto-d__autor 
                 h5.mb-0 Ministerio de salud y Protecciòn social (200/) Resolución 1401 de 2007    
@@ -231,7 +229,6 @@
           .col-lg-5 
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/24.png', alt='')                                                
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Enfermedad laboral")
-        h4 Enfermedad laboral
         .row.justify-content-center.align-items-start
           .col-lg-7
             .bloque-texto-d.color-secundario.p-4
@@ -255,7 +252,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/26.svg', alt='')    
       .col-lg-10
         p(data-aos="fade-down") El Ministerio de Protección Social (2007) en la Resolución 1401 de 2007, establece obligaciones y requisitos mínimos para realizar la investigación de incidentes y accidentes de trabajo, con el fin de identificar las causas, hechos y situaciones que los han generado, e implementar las medidas correctivas encaminadas a eliminar o minimizar condiciones de riesgo y evitar su recurrencia. 14 de mayo de 2007. 
-        
+    p(data-aos="fade-down").mb-5 A continuación, se explican los tipos de accidente:         
     .row.justify-content-center.align-items-start(data-aos="fade-right").mb-5           
       .col-lg-8        
         .crd.crd--avatarHorizontal.crd--first.py-4
@@ -427,59 +424,59 @@
       .col-lg-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/36.svg', alt='')    
       .col-lg-10
-        p(data-aos="fade-down") De acuerdo con el Decreto 1072 de 2015, el empleador debe tener actualizados y disponibles una serie de mecanismos, estrategias y políticas que le permitan cubrir satisfactoriamente cualquier calamidad en el orden de la salud y la protección laboral. Algunos de ellos se enumeran así:
+        p(data-aos="fade-down") De acuerdo con el <i>Decreto 1072 de 2015</i>, el empleador debe tener actualizados y disponibles una serie de mecanismos, estrategias y políticas, que le permitan cubrir cualquier calamidad en el orden de la salud y la protección laboral. Algunos de ellos son: 
 
     SlyderF.custom.mb-5(columnas="col-lg-4")(data-aos="fade-left")
       .tarjeta.tarjeta--slyder.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/37.svg", alt="alt").img100.m-auto     
-        p.text-center.mb-0 Debidamente firmada la política y objetivos de la empresa referente a Seguridad y Salud en el Trabajo.  
+        p.text-center.mb-0 Tener debidamente firmada la política y objetivos de la empresa referente a Seguridad y Salud en el Trabajo. 
       .tarjeta.tarjeta--slyder.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/38.svg", alt="alt").img100.m-auto     
-        p.text-center.mb-0 Responsabilidades y mejora continua del Seguridad y Salud en el Trabajo SG-SST.  
+        p.text-center.mb-0 Asumir las responsabilidades y mejora continua con respecto a la Seguridad y Salud en el Trabajo SG-SST.			 
       .tarjeta.tarjeta--slyder.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/39.svg", alt="alt").img100.m-auto     
-        p.text-center.mb-0 Identificación anual de peligros, evaluación y valoración de riesgos.  
+        p.text-center.mb-0 Identificar anualmente los peligros y realizar una evaluación y valoración de riesgos.			 
       .tarjeta.tarjeta--slyder.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/40.svg", alt="alt").img100.m-auto     
-        p.text-center.mb-0 Informe de condiciones de salud y perfil sociodemográfico de los empleados, de acuerdo con los lineamientos del programa de vigilancia epidemiológica y que concuerde con los riesgos existentes en la organización.  
+        p.text-center.mb-0 Realizar un informe sobre las condiciones de salud y el perfil sociodemográfico de los empleados, de acuerdo con los lineamientos del programa de vigilancia epidemiológica y que concuerde con los riesgos existentes en la organización.			  
       .tarjeta.tarjeta--slyder.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/41.svg", alt="alt").img100.m-auto     
-        p.text-center.mb-0 Debidamente firmado por el empleador y el responsable del Sistema de Gestión de Seguridad y Salud en el Trabajo el plan de trabajo anual en Seguridad y salud en el trabajo SG-SST. 
+        p.text-center.mb-0 Tener debidamente firmado por el empleador y el responsable del Sistema de Gestión de Seguridad y Salud en el Trabajo, el plan de trabajo anual en Seguridad y Salud en el Trabajo SG-SST.			
       .tarjeta.tarjeta--slyder.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/42.svg", alt="alt").img100.m-auto     
-        p.text-center.mb-0 Programa anual de Seguridad y Salud en el Trabajo SG-SST con soportes de inducción, reinducción y capacitación de todo el personal.  
+        p.text-center.mb-0 Realizar el programa anual de Seguridad y Salud en el Trabajo SG-SST, con los soportes correspondientes de inducción, reinducción y capacitación de todo el personal.			 
       .tarjeta.tarjeta--slyder.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/43.svg", alt="alt").img100.m-auto     
-        p.text-center.mb-0 Registro de entrega de equipos de protección personal.  
+        p.text-center.mb-0 Realizar el registro de la entrega de los equipos de protección personal.			
       .tarjeta.tarjeta--slyder.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/44.svg", alt="alt").img100.m-auto     
-        p.text-center.mb-0 Reportes e investigaciones de los incidentes, accidentes y enfermedades laborales, formatos de registros de las inspecciones a las instalaciones, máquinas o equipos ejecutadas.  
+        p.text-center.mb-0 Reportes e investigaciones de los incidentes, accidentes y enfermRealizar los reportes y las investigaciones de los incidentes, accidentes y enfermedades laborales y los formatos de registros de las inspecciones a las instalaciones, máquinas o equipos ejecutados.			  
       .tarjeta.tarjeta--slyder.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/45.svg", alt="alt").img100.m-auto     
-        p.text-center.mb-0 Matriz legal actualizada que contemple las normas del Sistema General de Riesgos Laborales que le aplican a la empresa.  
+        p.text-center.mb-0 Mantener actualizada la matriz legal con las normas del Sistema General de Riesgos Laborales que le aplican a la empresa.			
 
     .row.justify-content-center.align-items-center        
-      .col-lg-10
+      .col-lg-10.up
         .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Hasta ahora se ha profundizado en temas importantes que buscan el bienestar y la salud del empleado, ahora abordaremos el programa de seguridad y salud en el trabajo, su estructuración, implementación dentro de la empresa.       
+          p(data-aos="fade-down").mb-0 Hasta ahora se ha profundizado en temas importantes que buscan el bienestar y la salud del empleado, ahora abordaremos el programa de Seguridad y Salud en el Trabajo, su estructuración, implementación dentro de la empresa.       
 </template>
 
 <script>

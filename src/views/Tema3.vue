@@ -73,16 +73,12 @@
               img.img-a.img-t(src='@/assets/curso/temas/85.svg', alt='')
 
           .tarjeta.color-primario.p-3(x="71%" y="48%" numero="+")
-            h5.mb-3 A.	Establecer el perfil de los colaboradores
             p.mb-0 Conocer el personal al que va dirigida la información, gustos, intereses y preferencias. 
           .tarjeta.color-primario.p-3(x="60%" y="10%" numero="+")
-            h5.mb-3 B.	Diversificar el canal
             p.mb-0 Es importante utilizar y diversificar los canales, esto permite utilizar formatos de acuerdo a la necesidad y que se apoyen con el medio utilizado.   
           .tarjeta.color-primario.p-3(x="43%" y="32%" numero="+")
-            h5.mb-3 C.	Organizar  eventos
             p.mb-0 El realizar un cronograma con las actividades de manera periódica, permite que los empleados no se cansen de recibir información, esto brinda estrategias de cómo se desea impactar, la forma como se le pretende conectar y fomentar la interacción entre los colaboradores.   
           .tarjeta.color-primario.p-3(x="15%" y="60%" numero="+")
-            h5.mb-3 D.	Verificar mensajes
             p.mb-0 Es importante verificar los mensajes transmitidos, que sean claros, efectivos, que lleguen a toda la población y que los motive a participar, hacer o proponer, de acuerdo con la actividad ejecutada.
 
     .row.justify-content-start.align-items-center.mb-5           
@@ -135,7 +131,7 @@
     .row.justify-content-start.align-items-center.mb-5           
       .col-lg-2
         .bgp.p-1(data-aos="fade-right")
-          h4(data-aos="fade-down").mb-0 Tipos de Campañas 
+          h4(data-aos="fade-down").mb-0 Tipos de campañas 
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10(data-aos="fade-left")
@@ -170,10 +166,10 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/95.png', alt='')     
       .col-lg-8 
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg6")
-          .row.justify-content-center.align-items-center(titulo="A.	Campañas Preventivas")
+          .row.justify-content-center.align-items-center(titulo="A.	Campañas preventivas")
             .col-10
               P El objetivo principal de este tipo de campaña es promover acciones que prevengan situaciones de exposición a riesgos evaluados con anterioridad. Generando sensibilización sobre la importancia de utilizar, actuar, hacer y aplicar buenas prácticas dentro de su labor. 
-          .row.justify-content-center.align-items-center(titulo="B.	Campañas Informativas")
+          .row.justify-content-center.align-items-center(titulo="B.	Campañas informativas")
             .col-10
               P Buscan dar a conocer información importante a sus empleados sobre situaciones actuales que pueden afectar su desempeño laboral. Además de recomendar o asistir sobre procedimientos a la hora de posibles eventualidades o situaciones críticas.    
           .row.justify-content-center.align-items-center(titulo="C.	Campañas de promoción de la salud")
@@ -190,7 +186,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/96.svg', alt='')       
       .col-lg-10
         p(data-aos="fade-down") Ahora que se han determinado los tipos de campañas, es importante  abordar  las etapas de realización de una campaña y la manera en que se ha de proceder en la misma. De tal forma quedará en claro a qué hace alusión el concepto de campaña y de qué manera se constituye la misma. 
-
+    p(data-aos="fade-down").mb-5 Al momento de diseñar las campañas se tienen en cuenta tres etapas:
     TabsC.color-acento-contenido.mb-5(data-aos="fade-right")
       .py-3.py-md-4(titulo="A.	Preparación")
         .row.justify-content-center.align-items-start
