@@ -3,9 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p(data-aos="fade-down") El Sistema de Gestión de Seguridad y Salud en el Trabajo, dispone sobre las necesidades de creación, diseño e implementación de los Programas de Seguridad y Salud en el Trabajo dentro de todas las empresas, cuyo objetivo es velar por la integridad de sus trabajadores, proponiendo actividades que les permita prevenir, informar, capacitar y asesorar a toda la planta de personal desarrollando un nivel de conciencia sobre el autocuidado y el ambiente laboral seguro.
-
-    p(data-aos="fade-down").mb-5 Además, el implementar unos comités técnicos de seguridad, quienes velarán por la correcta ejecución e implementación de este programa dentro de la organización. 
+    p(data-aos="fade-down").mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
 
     .row.justify-content-center
       .col-lg-10.mb-5

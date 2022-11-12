@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Programas de seguridad y salud en el trabajo',
     descripcionCurso:
-      'Los Programas de Seguridad y Salud en el Trabajo de una organización, son un conjunto de actividades organizadas y enfocadas en minimizar los riesgos del personal que trabaja en la empresa, requiriendo de una estructuración, un diseño y una planificación con unas fechas específicas de realización, lo que permite que el personal se integre y apropie de la información divulgada por el área de talento humano y la de comunicaciones.',
+      'Los programas de seguridad y salud en el trabajo de una institución, son un conjunto de actividades organizadas y enfocadas en minimizar riesgos del personal, requiriendo de una estructuración, diseño y planificación, con fechas específicas de realización, lo que permite que el personal se integre y apropie de la información divulgada por el área de talento humano y la de comunicaciones.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
