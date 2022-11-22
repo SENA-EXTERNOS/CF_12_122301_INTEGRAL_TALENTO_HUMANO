@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1328" height="547" viewBox="0 0 1328 547">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Rectángulo_40700" data-name="Rectángulo 40700" d="M0,0H1328a0,0,0,0,1,0,0V527a20,20,0,0,1-20,20H20A20,20,0,0,1,0,527V0A0,0,0,0,1,0,0Z" transform="translate(136 2195)" fill="#7fc733"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.666" y1="-0.309" x2="0.346" y2="1.251" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc431"/>
+      <stop offset="1" stop-color="#ff8300"/>
+    </linearGradient>
+  </defs>
+  <g id="Enmascarar_grupo_121" data-name="Enmascarar grupo 121" transform="translate(-136 -2195)" opacity="0.148" clip-path="url(#clip-path)">
+    <path id="Sustracción_17" data-name="Sustracción 17" d="M5573.415,11997.679c38.239,11.112,152.018,45.986,504.254,7.969s337.868-126.514,337.868-126.514v360.8s-424.7-203.231-923.5-174.509-551.723,919.082-551.723,919.082v-1275.9h128.555s105.884-51.179,232.136,96.023-17.163,142.916-17.163,142.916h188.439S5535.176,11986.566,5573.415,11997.679Z" transform="translate(-4931 -9480.305)" fill="#6836bf"/>
+    <circle id="Elipse_4804" data-name="Elipse 4804" cx="48.252" cy="48.252" r="48.252" transform="translate(196.217 2641.702) rotate(75)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_4805" data-name="Elipse 4805" cx="15.961" cy="15.961" r="15.961" transform="translate(257.685 2656.848) rotate(75)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
