@@ -272,7 +272,7 @@
       .col-lg-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/70.svg', alt='')    
       .col-lg-10
-        p(data-aos="fade-down") Al tener organizados y estructurados los planes de emergencia, entonces se se conforman los comités, que son los encargados de organizar y liderar situaciones de calamidad, a los que se pueda enfrentar la organización, buscando que todos los empleados o la mayor parte de los empleados estén protegidos.
+        p(data-aos="fade-down") Al tener organizados y estructurados los planes de emergencia, entonces se conforman los comités, que son los encargados de organizar y liderar situaciones de calamidad, a los que se pueda enfrentar la organización, buscando que todos los empleados o la mayor parte de los empleados estén protegidos.
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-8(data-aos="fade-left")
