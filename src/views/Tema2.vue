@@ -36,7 +36,7 @@
             .col-lg-6.inf.le.p-3.col-md-6
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/53.svg', alt='')
       .row.justify-content-start.align-items-center.mb-5           
-        .col-lg-3
+        .col-auto
           .bgp.p-1(data-aos="fade-right")
             h4(data-aos="fade-down").mb-0 Estructura 
 
@@ -128,7 +128,7 @@
             img.img-a.img-t(src='@/assets/curso/temas/63.png', alt='') 
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-5
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Normatividad legal vigente 
 
@@ -147,7 +147,7 @@
     p(data-aos="fade-down").mb-5 Se ha determinado hasta el momento los aspectos del programa de seguridad y la importancia de mantener empleados saludables dentro de la empresa, lo que permitirá mejor desempeño y mayor productividad. Ahora, se desarrollarán los temas relevantes que deben estructurarse dentro del programa como son los planes de emergencia que son requeridos a todas las empresas para poder actuar de manera adecuada ante una calamidad. 
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-5
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Plan de emergencia 
 
@@ -264,7 +264,7 @@
             td Fallas de equipos, herramientas o sistemas   
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-5
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Comités Técnicos de Seguridad
 
@@ -284,7 +284,7 @@
             p.mb-0 Los comités técnicos son equipos de personal capacitado para ejercer funciones específicas referentes a promover, divulgar y proteger la salud de los trabajadores en una empresa. Aquí se deben tener presentes las brigadas de emergencia.
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-4
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Brigada de emergencia
 
@@ -345,7 +345,7 @@
                 td Por la cual se adopta la política nacional de gestión de riesgos de desastres.
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-4
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Clases de comités
 

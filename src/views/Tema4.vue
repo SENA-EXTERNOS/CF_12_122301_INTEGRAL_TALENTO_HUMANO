@@ -16,7 +16,7 @@
             p.mb-0 La gestión documental es un conjunto de actividades administrativas, que permiten organizar, recibir y archivar información. Esta información es revisada y evaluada por las áreas encargadas, las cuales evalúan el nivel de importancia y trascendencia para la empresa y proceden a definir el manejo que se dará a dichos documentos, si requieren ser archivados o evaluados por otras áreas o el tiempo de vigencia que pueden tener y, por último, especificar el destino final que tendrá.
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-5.up
+      .col-auto.up
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Técnicas de gestión documental
 
@@ -71,7 +71,7 @@
               .col.my-3
                 p Este proceso se hace continuamente para identificar el orden de prioridad de la información para la empresa. Se decide si continúa su preservación o será eliminado.
       .row.justify-content-start.align-items-center.mb-5           
-        .col-lg-5
+        .col-auto
           .bgp.p-1(data-aos="fade-right")
             h4(data-aos="fade-down").mb-0 Reporte de novedades
 
@@ -82,7 +82,7 @@
           p(data-aos="fade-down") Como su nombre lo dice, el reporte de novedades, permite contextualizar e informar a la empresa sobre situaciones atípicas que pueden presentarse durante el desarrollo de un proceso. Dicho reporte es diseñado por la empresa y cada departamento lo adecúa de acuerdo con sus necesidades. 
 
       .row.justify-content-start.align-items-center.mb-5           
-        .col-lg-5
+        .col-auto
           .bgp.p-1(data-aos="fade-right")
             h4(data-aos="fade-down").mb-0 Formatos  
 

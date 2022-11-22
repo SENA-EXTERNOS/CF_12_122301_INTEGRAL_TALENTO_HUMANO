@@ -41,13 +41,13 @@
                       i.ts.fas.fa-play-circle
 
       .row.justify-content-start.align-items-center.mb-5           
-        .col-lg-2
+        .col-auto
           .bgp.p-1(data-aos="fade-right")
             h4(data-aos="fade-down").mb-0 Tipos 
 
       .row.justify-content-center.align-items-start.mb-5           
         .col-lg-2
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/22.svg', alt='')    
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/8.svg', alt='')    
         .col-lg-10
           p(data-aos="fade-down") Para adoptar un estilo de vida saludable, existen diversas técnicas, actividades o acciones, que posibilitan eliminar hábitos dañinos para la salud y mejorar la calidad de vida, tanto física como emocional de los individuos. Realizar un cambio hacia un estado de vida saludable debe hacerse pausadamente, para que el cuerpo pueda ir adaptándose a los cambios lentamente y pueda asimilarlos mejor.  
 
@@ -122,14 +122,14 @@
     
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-2
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Hábitos 
 
     p(data-aos="fade-down").mb-5 Es importante entender que cada acción que se hace de forma repetitiva, de manera consciente, se va a transformar en un hábito en el comportamiento de las personas; es preciso entonces mencionar, cuáles son los hábitos que se deben mantener y fortalecer, con el objetivo de cultivar un estilo de vida saludable:
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-2
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Autocuidado
 
@@ -149,7 +149,7 @@
         p(data-aos="fade-down") Estrechamente relacionado con la promoción de un estilo de vida saludable, tanto dentro como fuera de la organización, se encuentra la labor de la empresa para prevenir los accidentes e incidentes laborales. A continuación, se aborda la descripción y diferenciación de cada uno de estos términos.
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-4
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Accidente e incidente laboral
 
@@ -224,7 +224,7 @@
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/25.png', alt='')      
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-4
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Tipos de Accidente
 
@@ -342,7 +342,7 @@
                 td Choques o golpes.
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-3
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Reportes
 
@@ -397,7 +397,7 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/35.png', alt='')           
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-3
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Documentación
 

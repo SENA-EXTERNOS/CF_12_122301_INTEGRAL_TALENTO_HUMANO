@@ -18,7 +18,7 @@
             p(data-aos="fade-down").mb-0 En la actualidad, dada la responsabilidad ambiental que se promueve, la mayoría de las empresas están reduciendo cualquier tipo de comunicado por medio de papel.                            
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-2
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Canales 
 
@@ -32,7 +32,7 @@
             p.mb-0 La empresa diseña, desarrolla e implementa los medios en los cuales transmite la información. Algunos canales físicos son las circulares, los memorandos, informes escritos, certificaciones, carteleras, entre otros. Otro componente, son las tecnologías de la información y comunicación, que juegan un papel importante porque proveen herramientas como el Intranet, Internet, el chat, mensajería interna, correo electrónico, redes telefónicas, fax y página web.
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-4
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Tipos de carteleras 
     p(data-aos="fade-down") Teniendo en cuenta los tipos físicos de divulgación, las carteleras son canales de comunicación visuales, utilizados de manera llamativa para informar y divulgar sobre temas específicos, a los empleados de una empresa.
@@ -58,7 +58,7 @@
             p.mb-0 Son las exigidas a nivel legal, como el reglamento interno del trabajo, reglamento de higiene y seguridad industrial, reglamento de seguridad, etc.
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-2
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Técnicas
 
@@ -82,7 +82,7 @@
             p.mb-0 Es importante verificar los mensajes transmitidos, que sean claros, efectivos, que lleguen a toda la población y que los motive a participar, hacer o proponer, de acuerdo con la actividad ejecutada.
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-3
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Elementos
 
@@ -135,7 +135,7 @@
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/92.svg', alt='')
               
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-2
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Tipos de campañas 
 
@@ -183,7 +183,7 @@
               P Para las empresas es muy importante el buen estado de salud de sus trabajadores; esto mejora la productividad de la empresa y optimiza el desempeño del empleado y es fundamental para evitar el ausentismo laboral.
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-3
+      .col-auto
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Etapas
 
