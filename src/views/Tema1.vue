@@ -51,7 +51,7 @@
         .col-lg-10
           p(data-aos="fade-down") Para adoptar un estilo de vida saludable, existen diversas técnicas, actividades o acciones, que posibilitan eliminar hábitos dañinos para la salud y mejorar la calidad de vida, tanto física como emocional de los individuos. Realizar un cambio hacia un estado de vida saludable debe hacerse pausadamente, para que el cuerpo pueda ir adaptándose a los cambios lentamente y pueda asimilarlos mejor.  
 
-    p(data-aos="fade-down").mb-5 A continuación, encontrará los tipos de acciones que llevan a un estilo de vida saludable.
+    p(data-aos="fade-down").mb-5 A continuación, encontrará los tipos de acciones que llevan a un estilo de vida saludable:
     .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="zoom-in")
       LineaTiempoC.color-secundario(text-small)
         .row.justify-content-center.align-items-start(titulo="A")
@@ -127,7 +127,35 @@
           h4(data-aos="fade-down").mb-0 Hábitos 
 
     p(data-aos="fade-down").mb-5 Es importante entender que cada acción que se hace de forma repetitiva, de manera consciente, se va a transformar en un hábito en el comportamiento de las personas; es preciso entonces mencionar, cuáles son los hábitos que se deben mantener y fortalecer, con el objetivo de cultivar un estilo de vida saludable:
-
+    .row.justify-content-center.mb-5
+      .col-lg-3.mb-lg-0.mb-3
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/c1.svg' alt='AvatarTop' style='width: 94px').m-auto
+          .tarjeta.color-primario.w-100(style="background-color:#fef7dc ")
+            .text-center.p-4(style='margin-top: -3rem')
+              h4.text-center Dieta balanceada
+              p Poder comer de todo, pero de una forma equilibrada, con proteína, frutas y verduras, y distribuirlas diariamente en un menú.
+      .col-lg-3.mb-lg-0.mb-3
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/c2.svg' alt='AvatarTop' style='width: 94px').m-auto
+          .tarjeta.color-primario.w-100(style="background-color:#f7f4ff")
+            .text-center.p-4(style='margin-top: -3rem')
+              h4.text-center Rutina física
+              p Hacer ejercicios cotidianamente, al menos por treinta minutos. (Montar en bicicleta, hacer algún tipo de deporte, caminar, etc.).
+      .col-lg-3.mb-lg-0.mb-3
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/c3.svg' alt='AvatarTop' style='width: 94px').m-auto
+          .tarjeta.color-primario.w-100(style="background-color:#fef7dc ")
+            .text-center.p-4(style='margin-top: -3rem')
+              h4.text-center Descanso
+              p Procurar descansar ocho horas para que el cuerpo recupere su energía.
+      .col-lg-3
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/c4.svg' alt='AvatarTop' style='width: 94px').m-auto
+          .tarjeta.color-primario.w-100(style="background-color:#f7f4ff")
+            .text-center.p-4(style='margin-top: -3rem')
+              h4.text-center Implementar la vida saludable en el ámbito laboral
+              p Realizar las pausas activas mínimas, diariamente.
     .row.justify-content-start.align-items-center.mb-5           
       .col-auto
         .bgp.p-1(data-aos="fade-right")
@@ -140,7 +168,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/18.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4.py-5
-            p.mb-0 El primer elemento que posibilita el autocuidado es la autoestima, entendida como la percepción que se tiene de sí mismo, involucra emociones, pensamientos, sentimientos, experiencias y actitudes que la persona reune durante su vida (Estrada, <em>et al</em>, 2011), este término también incluye el respeto de cómo nos tratamos y cómo nos vemos y observamos a nosotros mismos.
+            p.mb-0 El primer elemento que posibilita el autocuidado es la autoestima, entendida como la percepción que se tiene de sí mismo, involucra emociones, pensamientos, sentimientos, experiencias y actitudes que la persona reúne durante su vida (Estrada, et al, 2011), este término también incluye el respeto de cómo nos tratamos y cómo nos vemos a nosotros mismos.
 
     .row.justify-content-center.align-items-start.mb-5           
       .col-lg-2
@@ -160,8 +188,12 @@
       .col-lg-4.col-md-6.col-sm-8.bg5.p-4.my-3(data-aos="fade-right")
         img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/21.png', alt='')
         h4(data-aos="fade-down").mb-0.text-center Accidente                          
-
-    p(data-aos="fade-down").mb-5 Es usual que se presente confusión o se piense que los accidentes y los incidentes son lo mismo; pero, la realidad es que cada uno configura una situación totalmente diferente al interior de una organización, y por esto conlleva a diferentes acciones para mitigarlos. A continuación, se presenta una definición como aporte para su diferenciación:
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        .cajon.color-primario.p-4.mb-4
+          p.mb-0 Es hora de empezar a definir los conceptos dentro del presente componente formativo; temas que, por supuesto estarán relacionados con la divulgación de campañas, su estructuración, sus tipos y la legislación sobre seguridad y salud empresarial. Además, la importancia de conformar comités en casos de emergencias, y por supuesto, los aspectos que componen la elaboración de un programa para el mejoramiento de lo que podría considerarse una forma de seguridad social. 
+        p(data-aos="fade-down").mb-5 Es usual que se presente confusión o se piense que los accidentes y los incidentes son lo mismo; pero, la realidad es que cada uno configura una situación totalmente diferente al interior de una organización, y por esto conlleva a diferentes acciones para mitigarlos. A continuación, se presenta una definición como aporte para su diferenciación:
+      .col-lg-4: img(src='@/assets/curso/temas/c5.png', alt='')
     TabsA.color-acento-contenido.mb-5(data-aos="fade-left")
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Accidente")
         .row.justify-content-center.align-items-start
@@ -169,10 +201,8 @@
             .bloque-texto-d.color-secundario.p-4
               .bloque-texto-d__texto.mb-2
                 i.fas.fa-quote-left
-                p.text-regular Un accidente de trabajo se refiere a todo suceso repentino que sobrevenga por causa o con ocasión del trabajo y que produzca, en el trabajador, una lesión orgánica, una perturbación funcional o psiquiátrica, una invalidez o la muerte (Ministerio del trabajo y la salud, 2012).          
+                p.text-regular Un accidente de trabajo se refiere a todo suceso repentino que sobrevenga por causa o con ocasión del trabajo y que produzca, en el trabajador, una lesión orgánica, una perturbación funcional o psiquiátrica, una invalidez, o la muerte (Ministerio del Trabajo y la Protección Social, 2012).
                 i.fas.fa-quote-right    
-              .bloque-texto-d__autor 
-                h5.mb-0 Ministerio del trabajo y la salud, 2012
           .col-lg-5 
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/23.png', alt='') 
           .col-lg-12                    
@@ -191,7 +221,7 @@
             .bloque-texto-d.color-secundario.p-4
               .bloque-texto-d__texto.mb-2
                 i.fas.fa-quote-left
-                p.text-regular El accidente genera cualquier tipo de afectación, ya sea en la integridad de las personas afectadas y/o en materiales, bienes o inmuebles involucrados, y puede ser generado por la presencia de diferentes factores         
+                p.text-regular El accidente genera cualquier tipo de afectación, ya sea en la integridad de las personas afectadas y/o en materiales, bienes o inmuebles involucrados, y puede ser generado por la presencia de diferentes factores        
                 i.fas.fa-quote-right    
               .bloque-texto-d__autor 
                 h5.mb-0 Ley 1562 de 2012
@@ -271,7 +301,7 @@
       .col-lg-4
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/27.png', alt='')   
         
-    p(data-aos="fade-down").mb-5 En la tabla 1 se detallan los accidentes y los incidentes laborales, ejemplificados a partir de unas situaciones específicas.
+    p(data-aos="fade-down").mb-5 En la tabla 1 se detallan los accidentes y los incidentes laborales, ejemplificados a partir de unas situaciones específicas:
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
@@ -297,20 +327,7 @@
                 td Tropezar en un escalón sin caída.
               tr
                 td  #[b Desgaste articular por movimientos repetitivos] (repetición manual de una actividad)
-                td
-                  ul.lista-ul
-                    li 
-                      i.fas.fa-angle-right.colorv
-                      p.mb-0 Escribir en computador, tejer, bordar, cortar.
-                    li 
-                      i.fas.fa-angle-right.colorv
-                      p.mb-0 Tejer.
-                    li 
-                      i.fas.fa-angle-right.colorv
-                      p.mb-0 Bordar.
-                    li 
-                      i.fas.fa-angle-right.colorv
-                      p.mb-0 Cortar.             
+                td Escribir en computador, tejer, bordar, cortar.
                 td
               tr
                 td.text-bold(rowspan='5') Exposición o contacto
@@ -318,7 +335,7 @@
                 td
               tr
                 td A electricidad.
-                td Al conectar el dispositivo al tomacorriente, se presenta una descarga al toma, sin haber afectación.
+                td Al conectar el dispositivo al tomacorriente, se presenta una descarga en el toma, sin haber  afectación para el operario.
               tr
                 td A sustancias químicas.
                 td Fuga de sustancia química sin afectación.
@@ -373,7 +390,7 @@
               p.mb-0 El afectado o contratista informa al jefe o supervisor inmediato y él informa a seguridad y salud en el trabajo.
             li 
               i.fas.fa-angle-right.colorv
-              p.mb-0 Realizar el reporte vía telefónica con la ARL, o página web o documento físico
+              p.mb-0 Realizar el reporte vía telefónica con la ARL, página web, o documento físico.
             li 
               i.fas.fa-angle-right.colorv
               p.mb-0 Notificar a la EPS del accidente laboral.
@@ -453,6 +470,10 @@
           .col-8
             img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/45.svg", alt="alt").img100.m-auto     
         p.text-center.mb-0 Mantener actualizada la matriz legal con las normas del Sistema General de Riesgos Laborales que le aplican a la empresa.
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        .cajon.color-acento-contenido.p-4.mb-4
+          p.mb-0 Hasta ahora se ha profundizado en temas importantes que buscan el bienestar y la salud del empleado; ahora abordaremos el programa de Seguridad y Salud en el Trabajo, su estructuración e implementación dentro de la empresa.
  
 </template>
 

@@ -108,7 +108,8 @@
                 p.mb-0 Límites del indicador.
               li 
                 i.fas.fa-angle-right.colorv
-                p.mb-0 Método de cálculo
+                p.mb-0 Método de cálculo.
+
               li 
                 i.fas.fa-angle-right.colorv
                 p.mb-0 Fuente de información para el cálculo.
@@ -126,6 +127,10 @@
             p Las metas son los parámetros que se han deseado alcanzar; para saber si esto es posible o no, es preciso considerar los indicadores que se han logrado determinar en el programa.                                                 
           .col-lg-5.my-3
             img.img-a.img-t(src='@/assets/curso/temas/63.png', alt='') 
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        .cajon.color-primario.p-4.mb-4
+          p.mb-0 Hasta ahora, se han podido considerar los aspectos que componen un programa de salud y seguridad empresarial, sus tipos, estructuras y desarrollo. Para contextualizar la información y abarcar la legislación del por qué se requiere la implementación del programa dentro de las empresas, conoceremos entonces, la normatividad.
 
     .row.justify-content-start.align-items-center.mb-5           
       .col-auto
@@ -212,6 +217,7 @@
       span Recursos de acuerdo con el tipo de emergencia que se puede presentar en una empresa  
     .tabla-a.color-secundario.mb-5(data-aos="fade-left") 
       table.text-center
+        caption Nota. La tabla da cuenta de una serie de recursos o elementos necesarios a la hora de presentarse una emergencia.
         thead
           tr.text-bold.bgt2head
             th(colspan='5') Plan de emergencia  
@@ -366,6 +372,10 @@
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .cajon.color-acento-contenido.p-4.mb-4
+          p.mb-0 Hasta el momento, hemos abordado la importancia de promover el bienestar dentro de las organizaciones, razón por la cual se deben estructurar programas de Seguridad y Salud en el Trabajo; cuando ya se tiene organizado, estructurado y validado, lo más importante para el empleador, es que toda la organización participe, de manera activa, en la ejecución de dicho programa; por este motivo, hablaremos de las estrategias de divulgación e implementación de campañas, que motiven a cada uno de los empleados, en las actividades y dinámicas propuestas.
                         
 </template>
 

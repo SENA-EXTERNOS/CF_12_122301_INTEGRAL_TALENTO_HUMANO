@@ -135,29 +135,29 @@ export default {
     {
       tema: 'Estilos de vida saludable',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA, (2020). Hábitos saludables mediante actividad física ',
+        'Ecosistema de Recursos Educativos Digitales SENA, (2020). <em>Hábitos saludables mediante actividad física</em> [video] YouTube. ',
       tipo: 'Video',
       link: 'https://youtu.be/bZb3VYvBHFA',
     },
     {
-      tema: 'Accidente e incidente laboral',
+      tema: 'Estilos de vida saludable',
       referencia:
-        '<i>Ley 1562 de 2012</i>. Por la cual se modifica el sistema de riesgos laborales y se dictan otras disposiciones en materia de salud ocupacional. 11 de julio de 2012.',
-      tipo: 'Ley',
+        'Ley 1562 de 2012. Por la cual se modifica el sistema de riesgos laborales y se dictan otras disposiciones en materia de salud ocupacional. 11 de julio de 2012.',
+      tipo: 'Documento legal',
       descarga: '/downloads/Ley_1562_de_2012.pdf',
     },
     {
-      tema: 'Accidente e incidente laboral',
+      tema: 'Estilos de vida saludable',
       referencia:
-        '<i>Decreto 1072 de 2015</i>. [Ministerio de Trabajo]. Por el cual se estructuran en el ámbito laboral, la vigilancia y control de los riesgos laborales. 26 de mayo de 2015.',
-      tipo: 'Decreto',
+        'Decreto 1072 de 2015. [Ministerio de Trabajo]. Por el cual se estructuran en el ámbito laboral, la vigilancia y control de los riesgos laborales. 26 de mayo de 2015.',
+      tipo: 'Documento legal',
       descarga: '/downloads/Decreto_1072_de_2015.pdf',
     },
     {
-      tema: 'Plan de emergencia',
+      tema: 'Programas de Seguridad y Salud en el trabajo',
       referencia:
-        '<i>Resolución 0312 de 2019</i>.[Ministerio de Trabajo]. Por el cual se definen los estándares mínimos del SG-SST. 13 de febrero de 2019.',
-      tipo: 'Resolución',
+        'Resolución 0312 de 2019. [Ministerio de Trabajo]. Por el cual se definen los estándares mínimos del SG-SST. 13 de febrero de 2019.',
+      tipo: 'Documento legal',
       descarga:
         '/downloads/Resolucion_0312_2019_Estandares_minimos_del_Sistema_de_la_Seguridad.pdf',
     },
@@ -222,7 +222,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Estrada, A., Pastrana, J., & Mejía, M. (2011). <i>La autoestima, factor fundamental para el desarrollo de la autonomía personal y profesional</i>. Teoría de la educación, 1-13.',
+        'Estrada, A., Pastrana, J. & Mejía, M. (2011). La autoestima, factor fundamental para el desarrollo de la autonomía personal y profesional. Teoría de la educación, p. 1-13.',
     },
     {
       referencia:
@@ -230,25 +230,13 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Trabajo (2022). <i>Sistema de gestión y seguridad en el trabajo</i>. ',
+        'Ministerio de Trabajo (2022). <em>Sistema de gestión y seguridad en el trabajo.</em>',
       link:
-        'https://www.mintrabajo.gov.co/relaciones-laborales/riesgos-laborales/sistema-de-gestion-de-seguridad-y-salud-en-el-trabajo.',
+        'https://www.mintrabajo.gov.co/relaciones-laborales/riesgos-laborales/sistema-de-gestion-de-seguridad-y-salud-en-el-trabajo',
     },
     {
       referencia:
-        '<i>Resolución 0652 de 2012</i>. [Ministerio del Trabajo].  Por el cual se establece la conformación del Comité de convivencia. 30 de abril de 2012.',
-    },
-    {
-      referencia:
-        '<i>Resolución 2013 de 1986</i>. [Ministerio del Trabajo y Seguridad Social].  Por la cual se reglamenta la organización y funcionamiento de los Comités de Medicina, Higiene y Seguridad Industrial en los lugares de trabajo. 6 de junio de 1986.',
-    },
-    {
-      referencia:
-        '<i>Resolución 1401 de 2007</i>. [Ministerio de Protección Social]. Establecer obligaciones y requisitos mínimos para realizar la investigación de incidentes y accidentes de trabajo, con el fin de identificar las causas, hechos y situaciones que los han generado, e implementar las medidas correctivas encaminadas a eliminar o minimizar condiciones de riesgo y evitar su recurrencia. 14 de mayo de 2007.',
-    },
-    {
-      referencia:
-        'Safetya, (2019) <i>Programa del SG-SST: su definición y estructura</i>.',
+        'Safetya. (2019) <em>Programa del SG-SST: su definición y estructura.</em> ',
       link:
         'https://safetya.co/programas-del-sg-sst-estructura/#Estructurade_un_programa_del_SG-SST',
     },
