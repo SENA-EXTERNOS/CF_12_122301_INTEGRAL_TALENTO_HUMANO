@@ -213,11 +213,6 @@ export default {
       significado:
         'estado en que un ser u organismo vivo no tiene ninguna lesión ni padece ninguna enfermedad y ejerce con normalidad todas sus funciones.(OMS).',
     },
-    {
-      termino: 'Promover',
-      significado:
-        'fomentar la implementación y desarrollo de algo que pueden omitir o pasar por alto los empleados.',
-    },
   ],
   referencias: [
     {
