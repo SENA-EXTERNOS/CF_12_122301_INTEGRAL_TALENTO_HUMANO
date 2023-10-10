@@ -211,7 +211,7 @@ export default {
     {
       termino: 'Salud',
       significado:
-        'estado en que un ser u organismo vivo no tiene ninguna lesión ni padece ninguna enfermedad y ejerce con normalidad todas sus funciones.(OMS).',
+        'estado en que un ser u organismo vivo no tiene ninguna lesión ni padece ninguna enfermedad y ejerce con normalidad todas sus funciones (OMS).',
     },
   ],
   referencias: [

@@ -409,7 +409,7 @@
               p.mb-0 Confirmada la enfermedad laboral, la EPS contacta a la ARL y al Ministerio de Salud y Protección Social, el origen del padecimiento.
             li 
               i.fas.fa-angle-right.colorv
-              p.mb-0 Diligenciar la EPS, el Formulario Único de reporte de enfermedades laborales, completar con información a cargo de la entidad.              
+              p.mb-0 Diligenciar en la EPS, el Formulario Único de reporte de enfermedades laborales, completar con información a cargo de la entidad.              
         .col-lg-3.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/35.png', alt='')           
 

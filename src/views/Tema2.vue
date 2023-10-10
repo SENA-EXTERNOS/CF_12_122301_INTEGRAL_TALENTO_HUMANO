@@ -21,7 +21,7 @@
     .bg7
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-6.bg9.p-5 
-          h4.text-center.mb-5 Programa de seguridad y salud En el trabajo 
+          h4.text-center.mb-5 Programa de seguridad y salud en el trabajo 
           .row.justify-content-center.align-items-stretch     
             .col-lg-6.inf.p-3.col-md-6
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/48.svg', alt='')                
